@@ -1,9 +1,7 @@
 package com.example.server.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.example.server.models.User;
 import com.example.server.service.UserService;
@@ -14,8 +12,13 @@ public class UserController {
     @Autowired
     UserService userService;
 
-    @GetMapping
+    @GetMapping("/listall")
     public Iterable<User> allUsers() {
         return userService.listUsers();
+    }
+
+    @PostMapping("/signup")
+    public User signup(@RequestBody User user) {
+        return userService.createUser(user);
     }
 }
