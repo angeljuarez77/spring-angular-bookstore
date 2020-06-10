@@ -12,4 +12,8 @@ export class LoginPageComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  logIn(username, password) {
+    console.log({username, password});
+  }
+
 }
