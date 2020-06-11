@@ -22,6 +22,6 @@ export class UserService {
   }
 
   signUp(user: User): Observable<User> {
-    return this.http.post<User>(this.userUrl, user, this.httpOptions);
+    return this.http.post<User>(this.userUrl + "/signup", user, this.httpOptions);
   }
 }
