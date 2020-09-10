@@ -26,7 +26,7 @@ public class Book {
     private double price;
 
     @Column
-    private int relaseDate;
+    private int releaseYear;
 
     public Book() {
     }
@@ -79,11 +79,11 @@ public class Book {
         this.price = price;
     }
 
-    public int getRelaseDate() {
-        return relaseDate;
+    public int getReleaseYear() {
+        return releaseYear;
     }
 
-    public void setRelaseDate(int relaseDate) {
-        this.relaseDate = relaseDate;
+    public void setReleaseYear(int releaseYear) {
+        this.releaseYear = releaseYear;
     }
 }
