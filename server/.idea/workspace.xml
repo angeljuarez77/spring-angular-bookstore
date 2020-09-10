@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2345e5b1-f25f-41bd-88ea-df339208668e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/server/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/server/config/DatabaseConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/server/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/server/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/server/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/server/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/server/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/server/DemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d12XWqjOytyO7MU2MKSrqiiyrM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.server.DemoApplication" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2345e5b1-f25f-41bd-88ea-df339208668e" name="Default Changelist" comment="" />
+      <created>1591578319107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591578319107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1591851320779">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="580" y="224" key="#com.intellij.ide.util.MemberChooser/1440.-55.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1591851320779" />
+    <state x="2213" y="187" key="#com.intellij.ide.util.MemberChooser/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591582828514" />
+    <state x="2146" y="325" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591680141852">
+      <screen x="1440" y="-55" width="1920" height="1057" />
+    </state>
+    <state x="2146" y="325" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591680141852" />
+    <state width="1380" height="260" key="GridCell.Tab.0.bottom" timestamp="1599708871052">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1380" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599708871052" />
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom/1440.-55.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1591852888003" />
+    <state width="1846" height="319" key="GridCell.Tab.0.bottom/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1596729690615" />
+    <state width="1380" height="260" key="GridCell.Tab.0.center" timestamp="1599708871051">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1380" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599708871051" />
+    <state width="1398" height="290" key="GridCell.Tab.0.center/1440.-55.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1591852888003" />
+    <state width="1846" height="319" key="GridCell.Tab.0.center/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1596729690614" />
+    <state width="1380" height="260" key="GridCell.Tab.0.left" timestamp="1599708871051">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1380" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599708871051" />
+    <state width="1398" height="290" key="GridCell.Tab.0.left/1440.-55.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1591852888002" />
+    <state width="1846" height="319" key="GridCell.Tab.0.left/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1596729690613" />
+    <state width="1380" height="260" key="GridCell.Tab.0.right" timestamp="1599708871052">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1380" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599708871052" />
+    <state width="1398" height="290" key="GridCell.Tab.0.right/1440.-55.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1591852888003" />
+    <state width="1846" height="319" key="GridCell.Tab.0.right/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1596729690614" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1591811661559">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591811661559" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591764916870" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center" timestamp="1591811661559">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1591811661559" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591764916869" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left" timestamp="1591811661558">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1591811661558" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591764916869" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right" timestamp="1591811661559">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1591811661559" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591764916870" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1599708628604">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1599708628604" />
+    <state x="1901" y="112" key="SettingsEditor/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591582270546" />
+    <state x="1540" y="45" width="1720" height="857" key="dock-window-1" timestamp="1591579172196">
+      <screen x="1440" y="-55" width="1920" height="1057" />
+    </state>
+    <state x="1540" y="45" width="1720" height="857" key="dock-window-1/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1591579172196" />
+    <state x="280" y="23" width="880" height="1637" key="search.everywhere.popup" timestamp="1599708792457">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="280" y="23" width="880" height="1637" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1599708792457" />
+    <state x="1813" y="-55" width="1173" height="1972" key="search.everywhere.popup/1440.-55.1920.1057/0.23.1440.877@1440.-55.1920.1057" timestamp="1596729532261" />
+  </component>
+</project>
